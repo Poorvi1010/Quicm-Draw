@@ -1,0 +1,17 @@
+body
+{
+background-color: lightgreen;
+}
+
+#score
+{
+margin-right: 1570px;
+}
+#time
+{
+margin-left: 1530;
+}
+#name
+{
+    color:red;
+}
